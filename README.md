@@ -1,5 +1,5 @@
 # EE660 Project
-Affiliated course: USC EE660, Machine learning: Foundations & Methods
+Affiliated course: USC EE660, Machine learning: Foundations & Methods, given in 19 fall semester by Prof. Jenkins
 
 Used Dataset: Breast Cancer Wisconsin (Diagnostic)
 
