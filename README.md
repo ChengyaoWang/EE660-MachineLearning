@@ -14,12 +14,12 @@ Methods Involved:
     - Linear / Kernel PCA
   - Part1, Finding Best Performance Models:
     - K-nearest Neighbor
-    - AdaBoost & Boosting Forest
-    - Elastic Net Logistic Regression
-    - K Means Clustering + Logistic Regression
+    - AdaBoost & Boosting Forest (hierarchical grid search)
+    - Elastic Net Logistic Regression (grid search)
+    - K Means Clustering + Logistic Regression (hierachical)
   - Part2, Experimental Explorations:
     - Monte Carlo Semi-supervised l1 support vector machine
-    - Spectral Clustering
+    - Spectral Clustering (grid search)
 
 Code Organization:
   - Main.py:      Highest level script for generating results
